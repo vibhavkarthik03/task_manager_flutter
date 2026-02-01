@@ -1,4 +1,4 @@
-## Flutter Login + Task Manager App (BLoC + Offline Persistence)
+## Flutter Task Manager App
 
 This project is a simple Flutter application demonstrating:
 
